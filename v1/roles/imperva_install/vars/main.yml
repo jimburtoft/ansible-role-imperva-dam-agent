@@ -7,7 +7,7 @@ app_imperva_port: "443"
 app_imperva_fldr: "2048"
 tmp_install_dir: "/tmp/imperva_install"
 gateway_ip: 192.168.6.101
-gateway_pass: Webco123
+gateway_pass: your_password
 agent_name: "RedHat"
 preferred_installer_version_rhel7: "3.5.0.20.0.567601"
 preferred_imperva_version_rhel7: "13.5.0.20.0.569909"
